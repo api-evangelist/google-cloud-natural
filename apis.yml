@@ -1,0 +1,32 @@
+aid: google-cloud-natural
+name: Google Cloud Natural
+description: "Natural language understanding technology, including sentiment, entity and syntax analysis"
+url: https://cloud.google.com/natural-language/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Google Cloud Natural
+    description: "Natural language understanding technology, including sentiment, entity and syntax analysis"
+    humanURL: https://cloud.google.com/natural-language/docs/
+    baseURL: https://cloud.google.com/natural-language/docs/
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://cloud.google.com/natural-language/docs/
+common:
+  - type: Website
+    url: https://cloud.google.com/natural-language/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
