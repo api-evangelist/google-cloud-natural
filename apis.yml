@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://cloud.google.com/natural-language/docs/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/google-cloud-natural-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/google-cloud-natural-domain-security.yml
   - type: Website
     url: https://cloud.google.com/natural-language/docs/
   - type: PublicAPIsListing
