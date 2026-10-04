@@ -39,7 +39,6 @@ apis:
   - name: Google Cloud Natural
     description: "Natural language understanding technology, including sentiment, entity and syntax analysis"
     humanURL: https://cloud.google.com/natural-language/docs/
-    baseURL: https://cloud.google.com/natural-language/docs/
     tags:
       - Text Analysis
     properties:
